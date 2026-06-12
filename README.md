@@ -5,6 +5,29 @@
 <h1 align="center">PureMDread</h1>
 
 <p align="center">
+  <a href="https://github.com/你的用户名/PureMDread/stargazers">
+    <img src="https://img.shields.io/github/stars/你的用户名/PureMDread?style=flat-square" alt="Stars">
+  </a>
+  <a href="https://github.com/你的用户名/PureMDread/network/members">
+    <img src="https://img.shields.io/github/forks/你的用户名/PureMDread?style=flat-square" alt="Forks">
+  </a>
+  <a href="https://github.com/你的用户名/PureMDread/issues">
+    <img src="https://img.shields.io/github/issues/你的用户名/PureMDread?style=flat-square" alt="Issues">
+  </a>
+  <a href="https://github.com/你的用户名/PureMDread/blob/main/LICENSE">
+    <img src="https://img.shields.io/github/license/你的用户名/PureMDread?style=flat-square" alt="License">
+  </a>
+  <img src="https://img.shields.io/badge/Chrome-≥88-blue?style=flat-square&logo=google-chrome" alt="Chrome">
+  <img src="https://img.shields.io/badge/Edge-≥88-blue?style=flat-square&logo=microsoft-edge" alt="Edge">
+</p>
+
+<p align="center">
+  <img src="icons/icon.svg" alt="PureMDread Logo" width="128" height="128">
+</p>
+
+<h1 align="center">PureMDread</h1>
+
+<p align="center">
   <strong>纯净的本地Markdown阅读器 Chrome 扩展</strong>
   <br>
   一键美观阅读，无需转换 · 明暗双主题 · 代码高亮 · 自动目录
@@ -48,18 +71,12 @@
 
 ## 🚀 安装方法
 
-### 方法一：开发者模式加载（推荐）
-
 1. 下载本仓库 ZIP 或克隆到本地
 2. 打开 Chrome 浏览器，地址栏输入 `chrome://extensions/`
 3. 开启右上角 **开发者模式**
 4. 点击 **加载已解压的扩展程序**
 5. 选择 `markdown-reader-extension` 文件夹
 6. ⚠️ **重要**：点击插件卡片的「详情」→ 开启 **允许访问文件网址**
-
-### 方法二：Chrome 应用商店
-
-> 🔜 即将上架 Chrome Web Store，敬请期待
 
 ---
 
