@@ -20,7 +20,7 @@
 </p>
 
 <p align="center">
-  <strong>纯净的本地Markdown阅读器 Chrome 扩展</strong>
+  <strong>纯净的本地Markdown阅读器 Chrome/edge 扩展</strong>
   <br>
   一键美观阅读，无需转换 · 明暗双主题 · 代码高亮 · 自动目录
 </p>
