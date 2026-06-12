@@ -5,20 +5,18 @@
 <h1 align="center">PureMDread</h1>
 
 <p align="center">
-  <a href="https://github.com/你的用户名/PureMDread/stargazers">
-    <img src="https://img.shields.io/github/stars/你的用户名/PureMDread?style=flat-square" alt="Stars">
+  <a href="https://github.com/wu66chen/PureMDread/stargazers">
+    <img src="https://img.shields.io/github/stars/wu66chen/PureMDread?style=flat-square" alt="Stars">
   </a>
-  <a href="https://github.com/你的用户名/PureMDread/network/members">
-    <img src="https://img.shields.io/github/forks/你的用户名/PureMDread?style=flat-square" alt="Forks">
+  <a href="https://github.com/wu66chen/PureMDread/network/members">
+    <img src="https://img.shields.io/github/forks/wu66chen/PureMDread?style=flat-square" alt="Forks">
   </a>
-  <a href="https://github.com/你的用户名/PureMDread/issues">
-    <img src="https://img.shields.io/github/issues/你的用户名/PureMDread?style=flat-square" alt="Issues">
+  <a href="https://github.com/wu66chen/PureMDread/issues">
+    <img src="https://img.shields.io/github/issues/wu66chen/PureMDread?style=flat-square" alt="Issues">
   </a>
-  <a href="https://github.com/你的用户名/PureMDread/blob/main/LICENSE">
-    <img src="https://img.shields.io/github/license/你的用户名/PureMDread?style=flat-square" alt="License">
+  <a href="https://github.com/wu66chen/PureMDread/blob/main/LICENSE">
+    <img src="https://img.shields.io/github/license/wu66chen/PureMDread?style=flat-square" alt="License">
   </a>
-  <img src="https://img.shields.io/badge/Chrome-≥88-blue?style=flat-square&logo=google-chrome" alt="Chrome">
-  <img src="https://img.shields.io/badge/Edge-≥88-blue?style=flat-square&logo=microsoft-edge" alt="Edge">
 </p>
 
 <p align="center">
