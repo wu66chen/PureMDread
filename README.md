@@ -19,10 +19,6 @@
   </a>
 </p>
 
-<p align="center">
-  <img src="icons/icon.svg" alt="PureMDread Logo" width="128" height="128">
-</p>
-
 <h1 align="center">PureMDread</h1>
 
 <p align="center">
