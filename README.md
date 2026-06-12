@@ -28,7 +28,7 @@
 <p align="center">
 
 <p align="center">
-  <img src="https://github.com/wu66chen/PureMDread/blob/2a7ee3745918485fb0e00359bcd2029d4f76e633/assets/cover.jpg" width="90%">
+  <img src="https://github.com/wu66chen/PureMDread/blob/2a7ee3745918485fb0e00359bcd2029d4f76e633/assets/cover.jpg" width="99%">
 </p>
   
 ---
