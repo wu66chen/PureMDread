@@ -19,8 +19,6 @@
   </a>
 </p>
 
-<h1 align="center">PureMDread</h1>
-
 <p align="center">
   <strong>纯净的本地Markdown阅读器 Chrome 扩展</strong>
   <br>
