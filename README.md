@@ -26,6 +26,10 @@
 </p>
 
 <p align="center">
+
+<p align="center">
+  <img src="assets/cover.png" alt="PureMDread 界面预览" width="90%">
+</p>
   
 ---
 
