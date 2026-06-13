@@ -1,29 +1,3 @@
-<style>
-#lang-zh-radio, #lang-en-radio { display: none; }
-.lang-bar { text-align: center; margin: 16px 0 20px; }
-.lang-bar label {
-  display: inline-block;
-  padding: 4px 16px;
-  cursor: pointer;
-  font-size: 13px;
-  font-weight: 500;
-  border: 1px solid #d1d5db;
-  color: #4b5563;
-  background: #f9fafb;
-}
-.lang-bar label:first-of-type { border-radius: 6px 0 0 6px; }
-.lang-bar label:last-of-type { border-radius: 0 6px 6px 0; border-left: none; }
-#lang-zh-radio:checked ~ .lang-bar label[for="lang-zh-radio"],
-#lang-en-radio:checked ~ .lang-bar label[for="lang-en-radio"] {
-  background: #2563eb;
-  color: #fff;
-  border-color: #2563eb;
-}
-.lang-zh, .lang-en { display: none; }
-#lang-zh-radio:checked ~ .lang-zh { display: block; }
-#lang-en-radio:checked ~ .lang-en { display: block; }
-</style>
-
 <p align="center">
   <img src="icons/icon.svg" alt="PureMDread Logo" width="128" height="128">
 </p>
@@ -45,15 +19,8 @@
   </a>
 </p>
 
-<input type="radio" name="lang" id="lang-zh-radio" checked>
-<input type="radio" name="lang" id="lang-en-radio">
-
-<div class="lang-bar">
-  <label for="lang-zh-radio">中文</label><label for="lang-en-radio">English</label>
-</div>
-
-<!-- ==================== 中文 ==================== -->
-<div class="lang-zh">
+<details open>
+<summary><b>中文</b></summary>
 
 <p align="center">
   <strong>纯净的本地 Markdown 阅读器 Chrome 扩展</strong>
@@ -223,10 +190,10 @@ markdown-reader-extension/
   <sub>如果觉得好用，欢迎给个 ⭐ Star 支持</sub>
 </p>
 
-</div>
+</details>
 
-<!-- ==================== English ==================== -->
-<div class="lang-en">
+<details>
+<summary><b>English</b></summary>
 
 <p align="center">
   <strong>A clean, local Markdown reader Chrome extension</strong>
@@ -396,4 +363,4 @@ This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) 
   <sub>If you find this useful, please give it a ⭐ Star!</sub>
 </p>
 
-</div>
+</details>
