@@ -19,7 +19,7 @@
   </a>
 </p>
 
-<details open>
+<details name="lang" open>
 <summary><b>中文</b></summary>
 
 <p align="center">
@@ -192,7 +192,7 @@ markdown-reader-extension/
 
 </details>
 
-<details>
+<details name="lang">
 <summary><b>English</b></summary>
 
 <p align="center">
